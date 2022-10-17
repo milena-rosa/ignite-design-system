@@ -1,0 +1,2 @@
+import{A as t}from"./index.8fb884b0.js";import"./index.20a5ef26.js";import"./iframe.d26ff442.js";import"./index.f3886dc0.js";import"./jsx-runtime.193dca04.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/milena-rosa.png",alt:"Milena Boselli Rosa"},argTypes:{src:{control:{type:"text"}}}},l={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{l as Primary,p as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.c89b2d3f.js.map
