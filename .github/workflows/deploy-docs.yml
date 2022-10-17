@@ -22,6 +22,9 @@ jobs:
 
       - name: Build
         run: npm run build
+        env:
+          TURBO_TOKEN: o3y7ESvmgIDyl5IWnnWWF6AH
+          TURBO_TEAM: milena-rosa
 
       - name: Deploy Storybook
         working-directory: ./packages/docs

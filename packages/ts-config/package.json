@@ -1,6 +1,6 @@
 {
-  "name": "@ignite-ui/ts-config",
-  "version": "1.0.0",
+  "name": "@mbr-ui/ts-config",
+  "version": "1.1.0",
   "author": "Milena Boselli Rosa",
   "license": "MIT",
   "private": true
